@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TriviaGame
 
 ### Overview
@@ -27,3 +28,7 @@ links to humans using your project. You can include links like:
 ## Licensing
 
 The code in this project is licensed under GT BootCamp 
+=======
+# Trivia-game
+Multiple choice time out game
+>>>>>>> 51bc4c019bc866c3a238dde75919b1fc749a35d3

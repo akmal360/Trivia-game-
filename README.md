@@ -1,20 +1,20 @@
 
-### Overview
+# Overview
 
 Created a Trivia game using JavaScript for the logic and jQuery to manipulate HTML. 10 questions randomly generated with countdown timer for answer.  App gives correct answer with gif/image after user guess.  After 10 questions, app will display score with the option to restart the game. 
 
-### Technologies Utilized 
+## Technologies Utilized 
 
-## Developing
+### Developing
 
 Feel free to modify/expand upon my code for your purposes!
 
 
-## Scripting/Programming Languages
+### Scripting/Programming Languages
 
-* HTML, CSS, JavaScript,JQuery
+* HTML, CSS, JavaScript, JQuery
 
-## Links
+### Links
 
 Even though this information can be found inside the project on machine-readable
 format like in a .json file, it's good to include a summary of most useful
@@ -23,6 +23,6 @@ links to humans using your project. You can include links like:
 - Game homepage: https://akmal360.github.io/TriviaGame/
 - Repository: https://github.com/akmal360/TriviaGame
 
-## Licensing
+#### Licensing
 
 The code in this project is licensed under GT BootCamp 
